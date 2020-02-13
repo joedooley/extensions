@@ -2,5 +2,6 @@
   "id": "slug",
   "name": "Slug Generator",
   "srcdoc": "./index.html",
+  "sidebar": true,
   "fieldTypes": ["Symbol"]
 }
